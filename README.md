@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sakawsar
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning ML (Machine Learning)
+- 👀 I’m interested in AI/ML, programming, embedded systems, Web, and distributed technologies.
 - 📫 How to reach me sakawsar.pro@gmail.com
 
 <!---
