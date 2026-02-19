@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakawsar
-- 👀 I’m interested in AI/ML, programming, embedded systems, Web, and distributed technologies.
+- 👀 I’m interested in Programming, Web technologies, AI/ML, Embedded, and Distributed systems.
 - 📫 How to reach me sakawsar.pro@gmail.com
 
 <!---
